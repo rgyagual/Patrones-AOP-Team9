@@ -1,4 +1,4 @@
-package patron.opp.singleton;
+package patron.oop.singleton;
 
 
 public class LoggerCentral {
@@ -17,7 +17,6 @@ public class LoggerCentral {
         }
         return instancia;
     }
-
     // 4. La lógica
     public void registrarLog(String mensaje) {
         System.out.println("[LOG]: " + mensaje);

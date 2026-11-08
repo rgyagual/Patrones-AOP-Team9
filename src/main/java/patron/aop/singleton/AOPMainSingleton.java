@@ -1,4 +1,4 @@
 package patron.aop.singleton;
 
-public class MainSingleton {
+public class AOPMainSingleton {
     public static void main(String[] args) {}}

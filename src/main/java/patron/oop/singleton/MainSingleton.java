@@ -1,5 +1,4 @@
-package patron.opp.singleton;
-
+package patron.oop.singleton;
 // Clase creada para ilustrar el funcionamiento del Singleton en OOP
 public class MainSingleton {
     public static void main(String[] args) {
