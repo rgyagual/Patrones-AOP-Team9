@@ -1,0 +1,13 @@
+patron\aop\singleton\AOPMainSingleton.class
+patron\aop\adapter\AOPMainAdapter.class
+patron\oop\singleton\LoggerCentral.class
+patron\aop\adapter\IAOPNotificador.class
+patron\oop\adapter\INotificador.class
+patron\oop\singleton\MainSingleton.class
+patron\aop\adapter\AOPServicioSMS.class
+patron\aop\singleton\AOPLoggerCentral.class
+patron\aop\adapter\AOPNotificadorAdapter.class
+patron\oop\adapter\MainAdapter.class
+patron\oop\adapter\NotificadorAdapter.class
+patron\aop\singleton\SingletonAspect.class
+patron\oop\adapter\ServicioSMS.class

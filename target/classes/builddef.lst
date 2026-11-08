@@ -1,0 +1,26 @@
+-Xajruntimetarget:1.5
+-Xlint:ignore
+-encoding
+UTF-8
+-showWeaveInfo
+-verbose
+-17
+-classpath
+C:\Users\User\.m2\repository\org\aspectj\aspectjrt\1.9.20.1\aspectjrt-1.9.20.1.jar;C:\Users\User\.m2\repository\org\aspectj\aspectjweaver\1.9.20.1\aspectjweaver-1.9.20.1.jar;c:\Users\User\Documents\projects POO\DS\tarea-aop\target\classes
+-d
+c:\Users\User\Documents\projects POO\DS\tarea-aop\target\classes
+-s
+c:\Users\User\Documents\projects POO\DS\tarea-aop\target\generated-sources\aspectj-maven-plugin
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\aop\adapter\AOPMainAdapter.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\aop\adapter\AOPNotificadorAdapter.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\aop\adapter\AOPServicioSMS.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\aop\adapter\IAOPNotificador.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\aop\singleton\AOPLoggerCentral.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\aop\singleton\AOPMainSingleton.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\aop\singleton\SingletonAspect.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\oop\adapter\INotificador.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\oop\adapter\MainAdapter.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\oop\adapter\NotificadorAdapter.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\oop\adapter\ServicioSMS.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\oop\singleton\LoggerCentral.java
+c:\Users\User\Documents\projects POO\DS\tarea-aop\src\main\java\patron\oop\singleton\MainSingleton.java
