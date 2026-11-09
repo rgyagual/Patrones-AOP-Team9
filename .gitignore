@@ -1,0 +1,8 @@
+# Maven build output
+target/
+# Java bytecode
+*.class
+# VS Code settings
+.vscode/
+# IntelliJ IDEA settings
+.idea/
